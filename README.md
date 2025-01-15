@@ -15,7 +15,7 @@ This repository contains the source code for **MovieLand**, a React-based movie 
 - **CSS**: Styling for the application.
 - **OMDb API**: External API for fetching movie data.
 
-  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,css)](https://skillicons.dev)
 
 ## Components
 1. **App.js**:
