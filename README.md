@@ -1,8 +1,8 @@
 # MovieLand - React Movie Search Application
 
-This repository contains the source code for **MovieLand**, a React-based movie search application that fetches movie data from the TMDB API.
+This repository contains the source code for **MovieLand**, a React-based movie search application that fetches movie data from the OMDb API.
 
-![Image](https://github.com/user-attachments/assets/12083437-42f2-4fc3-a964-90ea58a581c7)
+![Image](https://github.com/user-attachments/assets/93a24a7d-e46d-4aa8-8bc9-8286774f4522)
 
 ## Features
 - **Real-Time Movie Search**: Users can search for movies by typing a title, with results fetched dynamically.
